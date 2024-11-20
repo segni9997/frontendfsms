@@ -1,0 +1,31 @@
+1 cabin is assigned for 36 passenger
+100 holding capacity  has 3 cabin 
+200 holding capcaity has 3 cabin 
+
+technician and cabincrew grouping
+Group A(lower Aircaraft) 
+it consists of 2 Cabin crew and 2 technician
+Group B(nextlower)
+itconsist 4 cabin as well as 4 technician
+Group C(Medium )
+consist of 8 cabin and  6 technician
+group D (Large ) 
+consist  12 cabin  and 8 technician
+Group D (large next) 
+consists 16 cabin and 10 technician
+
+
+Group A may have  (1,2,3,4,6,7...) based on number of air craft with passenger of between 50 and 100
+
+
+Admin 
+segni.8362gmail.com p segni
+cabin
+betty@gmail.com  p betty
+CoPilot
+segni.iresso@gmail.com p segni
+Technicain
+teshe@gmail.com p Tashe
+rich@gmail.com p Rahel
+treasury
+Tufa@gmail.com p Tufa
